@@ -1,77 +1,75 @@
 # HR Attrition Overview Dashboard
 
-## Project Overview
+## 📊 Project Overview
 
-• Interactive HR Attrition Dashboard developed using Microsoft Power BI
+An interactive **HR Attrition Dashboard built using Microsoft Power BI** to analyze employee turnover, workforce trends, and key attrition drivers.
 
-• Analyzes employee turnover, workforce trends, and attrition patterns
+The dashboard provides HR teams and management with a clear view of **headcount, employee exits, attrition rate, average tenure at exit, exit reasons, department-level attrition, and tenure distribution**.
 
-• Provides HR teams with clear and interactive workforce insights
+## 🎯 Objectives
 
-## Key Metrics
+* Monitor overall employee headcount and exits
+* Calculate and track employee attrition rate
+* Analyze attrition across different departments
+* Identify the major reasons for employee exits
+* Understand employee distribution by tenure band
+* Track attrition trends over different years
+* Support data-driven HR decision-making
 
-• Headcount: 60
+## 📌 Key KPIs
 
-• Exits: 40
+* **Headcount:** 60
+* **Exits:** 40
+* **Attrition Rate:** 66.67%
+* **Average Tenure at Exit:** 10.73 months
 
-• Attrition Rate: 66.67%
+## 📈 Dashboard Visuals
 
-• Average Tenure at Exit: 10.73 months
+### Attrition Rate by Department
 
-## Dashboard Analysis
+Shows the attrition distribution across departments and helps identify departments with higher employee turnover.
 
-• Attrition Rate by Department
+### Exits by Exit Reason
 
-• Exits by Exit Reason
+Highlights the major reasons employees leave the organization, including:
 
-• Employees by Tenure Band
+* Career Growth
+* Work-Life Balance
+* Compensation
+* Relocation
+* Better Opportunity
+* Performance
+* Manager Relationship
 
-• Attrition Rate by Year
+### Employees by Tenure Band
 
-• Department level filtering
+Displays the number of employees across different tenure groups:
 
-## Key Exit Reasons
+* 0–1 Year
+* 1–2 Years
+* 2–3 Years
 
-• Career Growth
+### Attrition Rate by Year
 
-• Work Life Balance
+Provides a yearly trend of employee attrition to help understand how turnover changes over time.
 
-• Compensation
+### Department Filter
 
-• Relocation
+An interactive department slicer allows users to analyze the dashboard for specific departments.
 
-• Better Opportunity
+## 🛠️ Tools & Technologies
 
-• Performance
+* **Microsoft Power BI**
+* **DAX**
+* **Power Query**
+* **Excel / CSV**
+* Data Cleaning & Transformation
+* Data Visualization
 
-• Manager Relationship
+## 💡 Key HR Insights
 
-## Tools and Technologies
+The dashboard demonstrates how HR data can be transformed into an interactive reporting solution that helps HR professionals understand workforce movement and identify areas requiring further investigation.
 
-• Microsoft Power BI
 
-• DAX
-
-• Power Query
-
-• Excel
-
-• Data Cleaning and Transformation
-
-• Data Visualization
-
-## Project Objectives
-
-• Monitor employee headcount and exits
-
-• Measure employee attrition rate
-
-• Identify departments with higher attrition
-
-• Analyze major employee exit reasons
-
-• Understand employee tenure distribution
-
-• Track attrition trends over time
-
-• Support data driven
+HR Professional | HR Analytics Enthusiast
+Skills: HR Operations | Talent Acquisition | Employee Relations | HR Analytics | Power BI
